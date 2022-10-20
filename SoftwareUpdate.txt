@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
