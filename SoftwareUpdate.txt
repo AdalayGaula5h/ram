@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
