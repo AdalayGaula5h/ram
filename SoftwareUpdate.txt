@@ -1,1 +1,1 @@
-example Google Colab
+fix for KeyError: 'epoch' (#48)
