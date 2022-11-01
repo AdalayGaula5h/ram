@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Batch inference fixes (#8854)
