@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
