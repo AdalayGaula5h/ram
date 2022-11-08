@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix tfjs exports for ARM64 Dockerfile (#8766)
