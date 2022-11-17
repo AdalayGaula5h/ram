@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix PIL show() and save() (#8202)
