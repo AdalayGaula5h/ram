@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Update H1 in Explorer API docs (#7813)
