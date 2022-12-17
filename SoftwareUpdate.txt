@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
