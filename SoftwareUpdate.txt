@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add PaddlePaddle Docs Integrations Page (#8858)
