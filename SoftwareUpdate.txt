@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Clarify triton server boolean value (#8532)
