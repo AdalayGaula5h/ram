@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
