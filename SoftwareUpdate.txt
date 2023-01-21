@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
