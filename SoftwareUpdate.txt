@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+ultralytics 8.1.27 batched tracking fixes (#8842)
