@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
