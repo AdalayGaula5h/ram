@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix PIL show() and save() (#8202)
