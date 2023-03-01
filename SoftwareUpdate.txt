@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
