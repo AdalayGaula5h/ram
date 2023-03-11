@@ -1,1 +1,1 @@
-added badges (#45)
+Fix docs H1 tags (#7182)
