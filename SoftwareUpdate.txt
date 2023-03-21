@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
