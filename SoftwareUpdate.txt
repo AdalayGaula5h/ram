@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Elaborate Train and Predict mode docs arguments (#8137)
