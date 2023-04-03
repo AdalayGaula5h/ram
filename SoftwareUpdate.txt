@@ -1,1 +1,1 @@
-fix predict with class filter
+Improve Coral Edge TPU guide (#8160)
