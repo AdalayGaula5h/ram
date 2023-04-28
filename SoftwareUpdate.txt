@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
