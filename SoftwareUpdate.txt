@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
