@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix cmake requirements for ARM64 (#8589)
