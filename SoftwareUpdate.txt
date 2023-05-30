@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
