@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Update Colab notebook for YOLOv8.1 (#8660)
