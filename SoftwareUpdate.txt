@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
