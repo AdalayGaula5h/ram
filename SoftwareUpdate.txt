@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+docs: update view-results-in-terminal.md (#66)
