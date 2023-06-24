@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
