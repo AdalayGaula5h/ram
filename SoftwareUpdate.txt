@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
