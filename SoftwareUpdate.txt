@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Improve Docs Modes tables (#8266)
