@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add horizontal Mosaic3 augmentation (#6898)
