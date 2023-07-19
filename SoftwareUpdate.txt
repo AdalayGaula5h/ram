@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Update Docs language dropdown height (#6927)
