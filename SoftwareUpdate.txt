@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Explorer with LanceDB, Actions and Docs updates (#7487)
