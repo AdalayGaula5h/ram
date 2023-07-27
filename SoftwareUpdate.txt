@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
