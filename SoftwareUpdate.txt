@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
