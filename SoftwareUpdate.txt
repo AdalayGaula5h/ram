@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix IS_PYTHON_3_12 bug (#9258)
