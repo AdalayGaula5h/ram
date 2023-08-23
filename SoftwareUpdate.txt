@@ -1,1 +1,1 @@
-added badges (#45)
+Object Counter improvements (#8648)
