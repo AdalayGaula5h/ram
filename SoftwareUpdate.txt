@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Update Discord and Contributing Guide URLs (#9270)
