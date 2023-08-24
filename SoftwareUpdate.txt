@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Update H1 in Explorer API docs (#7813)
