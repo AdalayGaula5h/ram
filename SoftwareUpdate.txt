@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
