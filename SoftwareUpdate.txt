@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Add OBB benchmarks to CI (#7777)
