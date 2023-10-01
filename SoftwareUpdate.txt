@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update Twitter icon in Docs (#7711)
