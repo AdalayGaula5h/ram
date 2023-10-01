@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Explorer with LanceDB, Actions and Docs updates (#7487)
