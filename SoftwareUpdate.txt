@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add simple-utilities.md Docs page (#8269)
