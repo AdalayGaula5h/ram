@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Allow Annotator PIL.Image inputs (#8397)
