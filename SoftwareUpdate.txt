@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ADD | opnecv c++ Onnx integration (#70)
