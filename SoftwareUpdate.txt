@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+New HUB Cloud Training docs page (#8174)
