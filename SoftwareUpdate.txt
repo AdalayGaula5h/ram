@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
