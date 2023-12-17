@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Update format.yml to pull_request_target (#7460)
