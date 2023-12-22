@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Resize angle, count, and stage on keypoint number change (#7598)
