@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add distance calculation feature in vision-eye (#8616)
