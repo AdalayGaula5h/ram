@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
