@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
