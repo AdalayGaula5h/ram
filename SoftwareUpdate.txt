@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Expand Model method type hinting (#8279)
