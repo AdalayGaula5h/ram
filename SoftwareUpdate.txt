@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Fix IS_PYTHON_3_12 bug (#9258)
