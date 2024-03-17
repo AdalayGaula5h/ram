@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix xyxyxyxyn calculation in obb result (#8188)
