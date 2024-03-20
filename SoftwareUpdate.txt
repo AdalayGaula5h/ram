@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
