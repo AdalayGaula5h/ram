@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
