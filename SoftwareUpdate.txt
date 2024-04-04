@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
