@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
