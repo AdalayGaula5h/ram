@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Update OpenVINO INT8 export (#7515)
