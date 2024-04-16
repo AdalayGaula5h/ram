@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
