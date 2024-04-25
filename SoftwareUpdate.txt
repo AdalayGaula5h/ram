@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
