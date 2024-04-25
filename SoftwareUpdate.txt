@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Fix TFLite INT8 for OBB (#7989)
