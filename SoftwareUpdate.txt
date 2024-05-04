@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Explorer with LanceDB, Actions and Docs updates (#7487)
