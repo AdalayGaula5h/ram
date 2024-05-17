@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
