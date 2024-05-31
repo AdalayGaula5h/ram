@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
